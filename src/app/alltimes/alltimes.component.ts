@@ -108,4 +108,6 @@ export class AlltimesComponent implements OnInit {
         this.displayEntryForm = false;
       }
 
-}
+      onEditComplete(x){}
+      onRowSelect(y){}
+    }
