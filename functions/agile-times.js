@@ -177,4 +177,8 @@ exports.handler = (event, context, callback) => {
     } catch (err) {
         callback(err);
     }
+<<<<<<< HEAD
 };
+=======
+};
+>>>>>>> e361061733aa199607ee4f6987a20de3a0ff3d69
